@@ -4,7 +4,7 @@
 Ao final do processamento, qual será o valor da variável SOMA?
 */
 
-let indice = 13;
+let indice = 12;
 let soma = 0;
 let k = 0;
 
